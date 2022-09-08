@@ -4,6 +4,7 @@ Required:
 ~ ncurses
 
 To compile:
+~ make a build folder
 ~ Go to build folder in the project folder in terminal
 ~ type cmake ..
 ~ type make
